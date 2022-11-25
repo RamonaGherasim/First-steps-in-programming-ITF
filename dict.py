@@ -1,5 +1,6 @@
-# declaram si initializam un dict (dictionary)
+# Declaram si initializam un dict (dictionary)
 note_elevi = {'Gigel': 10, 'Costel': 9, 'Ana': 10}
+
 
 # adaugam elemente in dict
 note_elevi['Sebi'] = 7
